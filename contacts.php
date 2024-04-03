@@ -85,7 +85,7 @@
         <?php
         echo "110";
        ?>
-        <h2>Get in Touch</h2>
+        <h2> Get in Touch</h2>
         <p>Have questions or comments? Contact us using the form below.</p>
         <form action="#" method="post">
             <input type="text" name="name" placeholder="Your Name" required><br>
