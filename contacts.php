@@ -83,7 +83,7 @@
     </nav>
     <section>
         <?php
-        echo "110 "
+        echo "110 ";
         echo "50";
        ?>
         <h2> Get in Touch</h2>
